@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\Exercício Elevador.exe
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\Exercício Elevador.deps.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\Exercício Elevador.runtimeconfig.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\Exercício Elevador.runtimeconfig.dev.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\Exercício Elevador.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\ref\Exercício Elevador.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\bin\Debug\net5.0\Exercício Elevador.pdb
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.csprojAssemblyReference.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.AssemblyInfo.cs
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\ref\Exercício Elevador.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.pdb
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Elevador\obj\Debug\net5.0\Exercício Elevador.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercício Elevador/1.0.0": {
+        "runtime": {
+          "Exercício Elevador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício Elevador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\Exercício Café.exe
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\Exercício Café.deps.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\Exercício Café.runtimeconfig.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\Exercício Café.runtimeconfig.dev.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\Exercício Café.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\ref\Exercício Café.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\bin\Debug\net5.0\Exercício Café.pdb
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.csprojAssemblyReference.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.AssemblyInfo.cs
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\ref\Exercício Café.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.pdb
+C:\Users\Micro\Documents\SENAI\c#\Exercícios Classes\Cafeteira\obj\Debug\net5.0\Exercício Café.genruntimeconfig.cache
